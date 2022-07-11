@@ -1,13 +1,12 @@
+
 # About Me
+test bio 
 
-از سال ۱۳۹۸ تجربه کار با پایتون و لینوکس را دارم، در این سال‌ها سعی کردم روز به روز پایتون را بیشتر یاد بگیرم و در این مسیر تجربه‌ي همکاری با شرکت‌ها و پروژه‌های اوپن‌سورس را دارم.
-
-#### GitHub: https://github.com/onionj
-#### LinkedIn: https://www.linkedin.com/in/onionj/
-
+* GitHub: https://github.com/onionj
+* LinkedIn: https://www.linkedin.com/in/onionj/
 
 
-# work experience
+# work experience:
 
 ### PyBotNet framework 
 PyBotNet framework, high level remote control\
@@ -20,34 +19,13 @@ GitHub Repo: https://github.com/onionj/pybotnet
 * #### Comprehensive warehouse system
     Technologies: Redis, nginx, WSGI, postgreSQL, ELK, AB, jwt, pytest, MongoDB
 
-# Skills
-مسلط به Python
+# Skills:
 
-تجربه برنامه نویسی OOP
-
-مسلط به FastAPI
-
-اشنای django
-
-اشنای با DRF
-
-اشنایی با odoo
-
-اشنایی با test and code coverage
-
-PostgreSQL
-
-Redis DB
-
-Celery
-
-کاربر لینوکس
-
-تجربه کار با Git & GitHub
-
-اشنای با Docker-compos
-
-مفاهیم امنیت (CEH)
-
-اشنایی با مفاهیم شبکه
-
+* Python
+* FastAPI
+* PostgreSQL
+* Redis DB
+* Celery
+* Linux user
+* Git
+* Docker compos
