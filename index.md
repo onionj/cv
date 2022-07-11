@@ -11,7 +11,7 @@
     *Technologies: odoo, postgreSQL, unit test and mock*
 
 * **Comprehensive warehouse system:**\
-    *Technologies: Redis, nginx, WSGI, postgreSQL, ELK, AB, jwt, pytest, MongoDB*
+    *Technologies: Fastapi, Redis, nginx, WSGI, postgreSQL, ELK, AB, jwt, pytest*
 
 
 ### OpenSource:
