@@ -7,17 +7,17 @@
 
 # work experience:
 ### Mehrpars Information and Communication Technology Company:
-**Organizational resource management system**\
+* **Organizational resource management system:**\
     *Technologies: odoo, postgreSQL, unit test and mock*
 
-**Comprehensive warehouse system**\
+* **Comprehensive warehouse system:**\
     *Technologies: Redis, nginx, WSGI, postgreSQL, ELK, AB, jwt, pytest, MongoDB*
 
 
 ### OpenSource:
-**PyBotNet framework**\
-*high level remote control*\
-[GitHub Repo](https://github.com/onionj/pybotnet)
+* **PyBotNet framework:**\
+    *high level remote control*\
+    [GitHub Repo](https://github.com/onionj/pybotnet)
 
 
 
