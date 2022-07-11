@@ -6,7 +6,7 @@
 * [Linkedin](https://www.linkedin.com/in/onionj)
 
 # work experience:
-### Mehrpars Information and Communication Technology Company - Shiraz
+### Mehrpars Information and Communication Technology Company:
 **Organizational resource management system**\
     *Technologies: odoo, postgreSQL, unit test and mock*
 
