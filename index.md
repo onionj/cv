@@ -1,16 +1,16 @@
 
 # About Me
-test bio 
+ 
 
-* GitHub: https://github.com/onionj
-* LinkedIn: https://www.linkedin.com/in/onionj
+* [GitHub](https://github.com/onionj)
+* [Linkedin](https://www.linkedin.com/in/onionj)
 
 
 # work experience:
 
 - ## OpenSource:
     * #### PyBotNet framework 
-    PyBotNet framework, high level remote control\
+    `PyBotNet framework, high level remote control`\
     GitHub Repo: https://github.com/onionj/pybotnet
 
 - ## Mehrpars Information and Communication Technology Company - Shiraz
@@ -24,9 +24,9 @@ test bio
 
 * Python
 * FastAPI
+* Linux
 * PostgreSQL
 * Redis DB
 * Celery
-* Linux user
 * Git
 * Docker compos
