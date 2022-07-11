@@ -4,7 +4,7 @@
 
 * [GitHub](https://github.com/onionj)
 * [Linkedin](https://www.linkedin.com/in/onionj)
-
+---
 # work experience:
 ### Mehrpars Information and Communication Technology Company:
 * **Organizational resource management system:**\
@@ -20,7 +20,7 @@
     [GitHub Repo](https://github.com/onionj/pybotnet)
 
 
-
+---
 # Skills:
 
 * Python
