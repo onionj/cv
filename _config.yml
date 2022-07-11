@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: 💻✒️📄🌟
 description: Saman Nezafat's CV
+disable_disk_cache: false

@@ -1,37 +1,53 @@
-Saman Nezafat
+# About Me
 
-You can use the [editor on GitHub](https://github.com/onionj/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+از سال ۱۳۹۸ تجربه کار با پایتون و لینوکس را دارم، در این سال‌ها سعی کردم روز به روز پایتون را بیشتر یاد بگیرم و در این مسیر تجربه‌ي همکاری با شرکت‌ها و پروژه‌های اوپن‌سورس را دارم.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### GitHub: https://github.com/onionj
+#### LinkedIn: https://www.linkedin.com/in/onionj/
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# work experience
 
-# Header 1
-## Header 2
-### Header 3
+### PyBotNet framework 
+PyBotNet framework, high level remote control\
+GitHub Repo: https://github.com/onionj/pybotnet
 
-- Bulleted
-- List
+### Mehrpars Information and Communication Technology Company - Shiraz
+* #### Organizational resource management system
+    Technologies:  odoo, postgreSQL, unit test and mock 
 
-1. Numbered
-2. List
+* #### Comprehensive warehouse system
+    Technologies: Redis, nginx, WSGI, postgreSQL, ELK, AB, jwt, pytest, MongoDB
 
-**Bold** and _Italic_ and `Code` text
+# Skills
+مسلط به Python
 
-[Link](url) and ![Image](src)
-```
+تجربه برنامه نویسی OOP
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+مسلط به FastAPI
 
-### Jekyll Themes
+اشنای django
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/onionj/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+اشنای با DRF
 
-### Support or Contact
+اشنایی با odoo
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+اشنایی با test and code coverage
+
+PostgreSQL
+
+Redis DB
+
+Celery
+
+کاربر لینوکس
+
+تجربه کار با Git & GitHub
+
+اشنای با Docker-compos
+
+مفاهیم امنیت (CEH)
+
+اشنایی با مفاهیم شبکه
+
