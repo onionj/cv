@@ -8,11 +8,12 @@ test bio
 
 # work experience:
 
-### PyBotNet framework 
+## PyBotNet framework 
 PyBotNet framework, high level remote control\
 GitHub Repo: https://github.com/onionj/pybotnet
 
-### Mehrpars Information and Communication Technology Company - Shiraz
+## Mehrpars Information and Communication Technology Company - Shiraz
+### Projects:
 * #### Organizational resource management system
     Technologies:  odoo, postgreSQL, unit test and mock 
 
