@@ -3,12 +3,12 @@ remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/tactile@v0.2.0
 
-plugins:
-- jekyll-remote-theme
-
 title: Saman Nezafat
 description: Python Backend Developer
 disable_disk_cache: false
+
+plugins:
+- jekyll-remote-theme
 
 github:
   is_project_page: false
