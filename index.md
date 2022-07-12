@@ -1,4 +1,4 @@
-## About Me
+## Saman Nezafat
 I've been working with Python and Linux since 2019, In these years I've tried to learn Python more day by day and throughout this path, I've gathered a vast experience in working with companies and open-source projects.
 
 * [GitHub](https://github.com/onionj)
