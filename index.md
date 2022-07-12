@@ -3,6 +3,7 @@ I've been working with Python and Linux since 2019, In these years I've tried to
 
 * [GitHub](https://github.com/onionj)
 * [Linkedin](https://www.linkedin.com/in/onionj)
+* [Email](samannzft@gmail.com)
 
 ---
 
