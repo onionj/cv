@@ -1,4 +1,3 @@
-
 # About Me
 ...
 
@@ -8,7 +7,7 @@
 ---
 
 # work experience:
-### Mehrpars Information and Communication Technology Company - *[2021]-[2022]*:
+### Mehr Pars - *[2021]-[2022]*:
 * **Organizational resource management system.**
     (*[Rainesh.org](https://rainesh.org/)*):\
     Technologies: odoo, postgreSQL, unit test and mock
