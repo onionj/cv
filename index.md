@@ -38,13 +38,13 @@ I've been working with Python and Linux since 2019, In these years I've tried to
 * Linux user
 * OOP programming experience
 * Git, GitHub and GitLab
-* django and DRF
+* Django and DRF
 * PostgreSQL and Redis DB
 * Celery
 * Docker and Docker-compos
-* odoo
+* Odoo
 * Code testing
-* network concepts‍‍‍
+* Network Concepts‍‍‍
 * CEH
 
 
