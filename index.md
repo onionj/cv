@@ -13,16 +13,16 @@ I've been working with Python and Linux since 2019, In these years I've tried to
 ### Mehr Pars - *[2021]-[2022]*:
 * **Organizational resource management system.**
     (*[Rainesh.org](https://rainesh.org/)*):\
-    Technologies: odoo, postgreSQL, unit test and mock
+    Technologies: Python, odoo, postgreSQL, unit test and mock
 
 * **Comprehensive warehouse system:**\
-    Technologies: Fastapi, Redis, nginx, WSGI, postgreSQL, ELK, AB, jwt, pytest
+    Technologies: Python, Fastapi, Redis, nginx, WSGI, postgreSQL, ELK, AB, jwt, pytest
 
 ### Ati Shahr - *[2022]-[Now]*:
 * **License Plate Readers**\
     Technologies: 
-    * Backend: FastAPI, Celery, Redis, Postgresql, Docker-compos
-    * Client: Redis, FasAPI, OpenCV, Gstreamer, Docker-compos
+    * Backend: Python, FastAPI, Celery, Redis, Postgresql, Docker-compos
+    * Client: Python, Redis, OpenCV, Gstreamer, Docker-compos
 
 
 ### Open Source:
