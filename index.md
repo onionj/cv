@@ -33,19 +33,19 @@ I've been working with Python and Linux since 2019, In these years I've tried to
 ---
 # Skills:
 
-* Proficient in Python
-* OOP programming experience
-* Proficient in FastAPI
+* Python
+* FastAPI
 * Linux user
-* Experienced in working with Git & GitHub
-* Familiarity with django and DRF
-* Familiarity with odoo
-* Familiarity with Code testing
-* Familiarity with PostgreSQL and Redis DB
-* Familiarity with Celery
-* Familiarity with Docker and Docker-compos
-* Familiarity with network concepts‍‍‍
-* Familiarity with Security Concepts (CEH)
+* OOP programming experience
+* Git, GitHub and GitLab
+* django and DRF
+* PostgreSQL and Redis DB
+* Celery
+* Docker and Docker-compos
+* odoo
+* Code testing
+* network concepts‍‍‍
+* CEH
 
 
 <!-- remove github footer -->
