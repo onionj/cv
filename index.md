@@ -41,8 +41,8 @@ I've been working with Python and Linux since 2019, In these years I've tried to
 * Familiarity with django and DRF
 * Familiarity with odoo
 * Familiarity with Code testing
-* Familiarity whit PostgreSQL and Redis DB
-* Familiarity whit Celery
+* Familiarity with PostgreSQL and Redis DB
+* Familiarity with Celery
 * Familiarity with Docker and Docker-compos
 * Familiarity with network concepts‍‍‍
 * Familiarity with Security Concepts (CEH)
