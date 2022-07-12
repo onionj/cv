@@ -1,5 +1,5 @@
-# About Me
-...
+## About Me
+I've been working with Python and Linux since 2019, In these years I've tried to learn Python more day by day and throughout this path, I've gathered a vast experience in working with companies and open-source projects.
 
 * [GitHub](https://github.com/onionj)
 * [Linkedin](https://www.linkedin.com/in/onionj)
@@ -30,13 +30,19 @@
 ---
 # Skills:
 
-* Python
-* FastAPI
-* Linux
-* PostgreSQL
-* Redis DB
-* Celery
-* Git
-* Docker compos
+* Proficient in Python
+* OOP programming experience
+* Proficient in FastAPI
+* Linux user
+* Experienced in working with Git & GitHub
+* Familiarity with django and DRF
+* Familiarity with odoo
+* Familiarity with Code testing
+* Familiarity whit PostgreSQL and Redis DB
+* Familiarity Celery
+* Familiarity with Docker-compos
+* Familiarity with network concepts‍‍‍
+* Familiarity Security Concepts (CEH)
+
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
