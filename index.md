@@ -45,7 +45,7 @@ I've been working with Python and Linux since 2019, In these years I've tried to
 * Familiarity whit Celery
 * Familiarity with Docker and Docker-compos
 * Familiarity with network concepts‍‍‍
-* Familiarity Security Concepts (CEH)
+* Familiarity with Security Concepts (CEH)
 
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
