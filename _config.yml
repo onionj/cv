@@ -2,11 +2,8 @@ remote_theme: pages-themes/cayman@v0.2.0
 
 full_name: Saman Nezafat
 description: Python Backend Developer
+download_pdf: true
+
 
 plugins:
 - jekyll-remote-theme
-
-github:
-  is_project_page: false
-
-download_pdf: true
