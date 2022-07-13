@@ -18,7 +18,7 @@ Run `make update` or run:\
 
 ### create pdf:
 Run `make pdf` or run \
-`pip3 install pdfkit -q` \	
+`pip3 install pdfkit -q` \
 `python3 -c "import pdfkit; pdfkit.from_url('https://onionj.github.io/cv/', 'cv.pdf', verbose=False)"`
 
 
