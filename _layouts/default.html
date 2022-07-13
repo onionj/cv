@@ -40,8 +40,10 @@
     <main id="content" class="main-content" role="main">
       <!-- index.md is content -->
       {{ content }} 
+
       <footer class="site-footer">
         {% if site.pdf %}
+          pdf
           <a href="{{ site.pdf_url }}" class="btn">Download PDF</a>
         {% endif %}
       </footer>
