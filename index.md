@@ -49,7 +49,7 @@ I've been working with Python and Linux since 2019, In these years I've tried to
 
 ---
 
-[Download PDF](https://github.com/onionj/cv/raw/gh-pages/cv.pdf) 
+<!-- [Download PDF](https://github.com/onionj/cv/raw/gh-pages/cv.pdf)  -->
 
 
 <!-- remove github footer -->
