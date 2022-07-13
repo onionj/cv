@@ -1,4 +1,4 @@
-## Saman Nezafat
+## About Me
 
 I've been working with Python and Linux since 2019, In these years I've tried to learn Python more day by day and throughout this path, I've accumulated a wealth of experience working with companies and open-source projects.
 
@@ -47,10 +47,9 @@ I've been working with Python and Linux since 2019, In these years I've tried to
 * Network Concepts‍‍‍
 * CEH
 
+---
 
 [Download PDF](https://github.com/onionj/cv/raw/gh-pages/cv.pdf) 
-
-[1]:https://github.com/onionj/cv/raw/gh-pages/cv.pdf
 
 
 <!-- remove github footer -->
