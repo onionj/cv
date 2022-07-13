@@ -53,4 +53,4 @@ I've been working with Python and Linux since 2019, In these years I've tried to
 
 
 <!-- remove github footer -->
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer"); setTimeout(() => { x[0].remove(); }, 10); </script>
+<!-- <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer"); setTimeout(() => { x[0].remove(); }, 10); </script> -->

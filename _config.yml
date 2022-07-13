@@ -8,4 +8,5 @@ plugins:
 
 github:
   is_project_page: false
-  download_pdf: true
+
+download_pdf: true
