@@ -3,7 +3,22 @@ remote_theme: pages-themes/cayman@v0.2.0
 full_name: Saman Nezafat
 title: Saman Nezafat
 description: Python Backend Developer
-download_pdf: true
+
+pdf: true
+pdf_url: https://github.com/onionj/cv/raw/gh-pages/cv.pdf
+
+github: true
+github_url: https://github.com/onionj
+
+linkedin: true
+linkedin_url: https://www.linkedin.com/in/onionj/
+
+gmail: true
+gmail_url: onionj98@gmail.com
+
+phone: true
+phone_number: "+989399608591"
+
 lang: "en-US"
 
 plugins:

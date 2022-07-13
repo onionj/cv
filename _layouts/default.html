@@ -11,25 +11,45 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
-    <title> {{ site.full_name }} </title>
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
+      
       <h1 class="project-name"> {{ site.full_name | page.title | default: site.title | default: site.github.repository_name }} </h1>
       <h2 class="project-tagline">{{ site.description }}</h2>
-      {% if site.download_pdf %}
-        <a href="https://github.com/onionj/cv/raw/gh-pages/cv.pdf" class="btn">Download PDF</a>
+
+      {% if site.pdf %}
+        <a href="{{ site.pdf_url }}" class="btn">Download PDF</a>
       {% endif %}
+
+      {% if site.github %}
+      <a href="{{ site.github_url }}" class="btn">Download PDF</a>
+      {% endif %}
+      
+      {% if site.linkedin %}
+      <a href="{{ site.linkedin_url }}" class="btn">Download PDF</a>
+      {% endif %}
+      
+      {% if site.gmail %}
+        <a href="mailto:{{ site.gmail_url }}" class="btn">Download PDF</a>
+      {% endif %}
+
+      {% if site.phone %}
+        <a href="tel:{{ site.phone_number}}" class="btn">{{ site.phone_number }}</a>
+      {% endif %}
+
+
     </header>
 
     <main id="content" class="main-content" role="main">
+
       {{ content }}
 
-        <!-- <footer class="site-footer">
-            
-        </footer> -->
+        <footer class="site-footer">
+
+        </footer>
     </main>
   </body>
 </html>
