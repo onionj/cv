@@ -12,16 +12,14 @@ GitHub Pages is a simple service to publish a website directly on GitHub from a 
 Example resume created by this template (my resume): [onionj.github.io/cv/](https://onionj.github.io/cv/)
 
 ### publish in github:
-Run `make update` \
-or \
+Run `make update` or run:\
 `git add .` \
 `git commit -m "update"` \
 `git push origin gh-pages` \
 
 
 ### create pdf:
-Run `make pdf` \
-or \
+Run `make pdf` or run \
 `pip3 install pdfkit -q` \	
 `python3 -c "import pdfkit; pdfkit.from_url('https://onionj.github.io/cv/', 'cv.pdf', verbose=False)"`
 
