@@ -5,10 +5,10 @@ I've been working with Python and Linux since 2019, In these years I've tried to
 
 ---
 
-# Work Experience:
+# Work Experience
+
 ### Mehr Pars - *[2021]-[2022]*:
-* **Organizational resource management system.**
-    (*[Rainesh.org](https://rainesh.org/)*):\
+* **Organizational resource management system.** (*[Rainesh.org](https://rainesh.org/)*):\
     Technologies: Python, odoo, postgreSQL, unit test and mock
 
 * **Comprehensive warehouse system:**\
@@ -27,7 +27,7 @@ I've been working with Python and Linux since 2019, In these years I've tried to
 
 
 ---
-# Skills:
+# Skills
 
 * Python
 * FastAPI
