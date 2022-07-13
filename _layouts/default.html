@@ -25,23 +25,23 @@
       <h2 class="project-tagline">{{ site.description }}</h2>
       
       {% if site.pdf %}
-          <a href="{{ site.pdf_url }}" class="btn">Download PDF</a>
+          <a href="{{ site.pdf_url }}" target="_blank" class="btn">Download PDF</a>
         {% endif %}
 
       {% if site.github %}
-        <a href="{{ site.github_url }}" class="btn">GitHub</a>
+        <a href="{{ site.github_url }}" target="_blank" class="btn">GitHub</a>
       {% endif %}
       
       {% if site.linkedin %}
-        <a href="{{ site.linkedin_url }}" class="btn">Linkedin</a>
+        <a href="{{ site.linkedin_url }}" target="_blank" class="btn">Linkedin</a>
       {% endif %}
       
       {% if site.gmail %}
-        <a href="mailto:{{ site.gmail_url }}" class="btn">Gmail</a>
+        <a href="mailto:{{ site.gmail_url }}" target="_blank" class="btn">Gmail</a>
       {% endif %}
 
       {% if site.phone %}
-        <a href="tel:{{ site.phone_number}}" class="btn">{{ site.phone_number }}</a>
+        <a href="tel:{{ site.phone_number}}" target="_blank" class="btn">{{ site.phone_number }}</a>
       {% endif %}
     </header>
 
@@ -54,7 +54,7 @@
         {{ site.site_footer_text }}
       </footer>
       {% endif %}
-      
+
     </main>
   </body>
 </html>
