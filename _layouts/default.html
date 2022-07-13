@@ -17,7 +17,7 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name"> test {{ site.full_name | page.title | default: site.title | default: site.github.repository_name }} </h1>
+      <h1 class="project-name"> {{ site.full_name | page.title | default: site.title | default: site.github.repository_name }} </h1>
       <h2 class="project-tagline">{{ site.description }}</h2>
       {% if site.download_pdf %}
         <a href="https://github.com/onionj/cv/raw/gh-pages/cv.pdf" class="btn">Download PDF</a>
