@@ -2,7 +2,7 @@
 update:
 	git add .
 	git commit -m "update"
-	git push
+	git push origin gh-pages
 
 pdf:
 	pip3 install pdfkit -q	
