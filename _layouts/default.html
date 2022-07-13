@@ -14,7 +14,7 @@
 
     <meta name="pdfkit-page-size" content="Legal"/>
     <meta name="pdfkit-orientation" content="Landscape"/>
-    
+
   </head>
 
   <body>
@@ -48,10 +48,13 @@
     <main id="content" class="main-content" role="main">
       <!-- index.md is content -->
       {{ content }} 
-
+      
+      {% if site.footer %}
       <footer class="site-footer">
         {{ site.site_footer_text }}
       </footer>
+      {% endif %}
+      
     </main>
   </body>
 </html>
