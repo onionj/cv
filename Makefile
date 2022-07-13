@@ -6,4 +6,4 @@ update:
 
 pdf:
 	pip3 install pdfkit
-	python3 -c "import pdfkit; pdfkit.from_url('https://onionj.github.io/cv/', 'cv.pdf', options={"load-error-handling": "ignore"} verbose=True)"
+	python3 create_pdf.py
