@@ -19,6 +19,10 @@
     <header class="page-header" role="banner">
       <h1 class="project-name"> {{ site.full_name | page.title | default: site.title | default: site.github.repository_name }} </h1>
       <h2 class="project-tagline">{{ site.description }}</h2>
+      
+      {% if site.pdf %}
+          <a href="{{ site.pdf_url }}" class="btn">Download PDF</a>
+        {% endif %}
 
       {% if site.github %}
         <a href="{{ site.github_url }}" class="btn">GitHub</a>
@@ -42,10 +46,7 @@
       {{ content }} 
 
       <footer class="site-footer">
-        {% if site.pdf %}
-          pdf
-          <a href="{{ site.pdf_url }}" class="btn">Download PDF</a>
-        {% endif %}
+        {{ site.site_footer_text }}
       </footer>
     </main>
   </body>

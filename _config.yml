@@ -20,9 +20,11 @@ gmail_url: onionj98@gmail.com
 phone: true
 phone_number: "+989399608591"
 
+site_footer_text: ""
+
 lang: "en-US"
 
-# template configs
+# template configs:
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
