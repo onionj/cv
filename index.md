@@ -10,17 +10,20 @@ I've been working with Python and Linux since 2019, In these years I've tried to
 
 ### Mehr Pars - *[2021]-[2022]*:
 * **Organizational resource management system.** (*[Rainesh.org](https://rainesh.org/)*):\
-    Technologies: Python, odoo, postgreSQL, unit test and mock
+    Technologies: Python, odoo, postgreSQL, unittest
 
 * **Comprehensive warehouse system:**\
-    Technologies: Python, Fastapi, Redis, nginx, WSGI, postgreSQL, ELK, AB, jwt, pytest
+    Technologies: Python, Fastapi, Redis, postgreSQL, pytest
 
 ### Ati Shahr - *[2022]-[Now]*:
 * **License Plate Readers**\
     Technologies: 
     * Backend: Python, FastAPI, Celery, Redis, Postgresql, Docker-compos
-    * Client: Python, Redis, OpenCV, Gstreamer, Docker-compos
+    * Client: Python, OpenCV, Redis, Docker-compos
 
+* **SIB**\
+    Technologies: 
+    * Backend: Python, Django, DRF, Celery, Redis, Postgresql, Docker-compos
 
 ### Open Source:
 * **Maintainer of PyBotNet framework - high level remote control.** 
@@ -39,7 +42,5 @@ I've been working with Python and Linux since 2019, In these years I've tried to
 * PostgreSQL and Redis DB
 * Celery
 * Docker and Docker-compos
-* Odoo
-* Code testing
 * Network Concepts‍‍‍
 * CEH
