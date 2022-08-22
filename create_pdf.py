@@ -13,4 +13,4 @@ with open('_config.yml') as file:
             'margin-bottom': '0in',
             'margin-left': '0.5in',
             }    
-    pdfkit.from_url(URL, 'cv2.pdf', options=options, verbose=True)
+    pdfkit.from_url(URL, 'cv.pdf', options=options, verbose=True)
