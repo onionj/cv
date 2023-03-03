@@ -7,4 +7,4 @@ update:
 pdf:
 	sudo apt install -y wkhtmltopdf
 	pip install pdfkit pyyaml
-	python create_pdf.py
+	python3 create_pdf.py
