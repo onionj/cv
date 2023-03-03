@@ -66,4 +66,4 @@ Technologies used: Python (thread, OOP, Decorators, etc.).
 Technologies used: Python, Golang.
 
 ## Languages
-    English (Fluent)
+English (Fluent)
