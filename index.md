@@ -1,23 +1,7 @@
 
 ## Professional Summary:
 
-Experienced Python Backend Developer with a proven track record of delivering innovative solutions for over 10 professional projects. Skilled in web development using frameworks like FastAPI and Django, as well as database management with PostgreSQL and Redis. Proficient in using Git for version control and working with Linux-based systems. Continuously learning and improving technical and soft skills to stay ahead in the ever-changing field of backend development.
-
-
-### Technical Skills:
-
-* Proficient in Python programming with experience in OOP, decorators, threads, and async programming
-* Experienced in using FastAPI and Django frameworks for web development
-* Skilled in database management using PostgreSQL and Redis
-* Knowledgeable in test frameworks such as unittest and Pytest for unit testing
-* Experienced in managing Linux-based systems for system administration tasks
-* Familiar with security concepts and best practices
-* Knowledgeable in agile methodology and Scrum for project management
-* Experienced in containerization using Docker for deployment
-* Proficient in using Git for version control and collaborative software development
-
-
----
+Experienced Python Backend Developer with a proven track record of delivering innovative solutions for over 10 professional projects. Skilled in web development using frameworks like FastAPI and Django, as well as database management with PostgreSQL and Redis. Proficient in using Git for version control and working with Linux-based systems.
 
 
 ## Work Experience
@@ -54,16 +38,23 @@ Technologies Used: Linux, Python.
 Technologies Used: Linux, Python, FastAPI, PostgreSQL, Docker.
 
 
-### Open Source Contributions (Python and Golang Developer)
+### Open Source
 
-* Maintainer of PyBotNet framework: Developed an open-source Python framework with around 200 stars on GitHub that enables users to add remote control to Python codes. (https://github.com/onionj/pybotnet)
-
-Technologies used: Python (thread, OOP, Decorators, etc.).
+#### Maintainer of PyBotNet framework. (https://github.com/onionj/pybotnet)
 
 
-* Created and contributed to several small scripts and tools on GitHub. These projects have been well received by the open source community and have been downloaded and used by developers around the world.
+### Technical Skills:
 
-Technologies used: Python, Golang.
+* Proficient in Python programming with experience in OOP, decorators, threads, and async programming
+* Experienced in using FastAPI and Django frameworks for web development
+* Skilled in database management using PostgreSQL and Redis
+* Knowledgeable in test frameworks such as unittest and Pytest for unit testing
+* Experienced in managing Linux-based systems for system administration tasks
+* Familiar with security concepts and best practices
+* Knowledgeable in agile methodology and Scrum for project management
+* Experienced in containerization using Docker for deployment
+* Proficient in using Git for version control and collaborative software development
+
 
 ## Languages
 English (Fluent)
