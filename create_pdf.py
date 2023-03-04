@@ -1,16 +1,17 @@
-
 import pdfkit
 import yaml
 
-with open('_config.yml') as file:
+with open("_config.yml") as file:
     configs = yaml.load(file, Loader=yaml.FullLoader)
 
-    URL= configs["URL"]
-    
+    URL = configs["URL"]
+
     options = {
-            'margin-top': '0in',
-            'margin-right': '0.5in',
-            'margin-bottom': '0in',
-            'margin-left': '0.5in',
-            }    
-    pdfkit.from_url(URL, 'cv.pdf', options=options, verbose=True)
+        "page-height": "430",
+        "page-width": "200",
+        "margin-top": "0in",
+        "margin-right": "0.5in",
+        "margin-bottom": "0in",
+        "margin-left": "0.5in",
+    }
+    pdfkit.from_url(URL, "cv.pdf", options=options, verbose=True)
