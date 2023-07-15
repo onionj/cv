@@ -29,14 +29,22 @@ Technologies Used: Linux, Python.
 * Optimized a reporting endpoint resulting in a 20x speed improvement and preventing system slowdown during high load times.
 * Collaborated on developing the second version of the project with FastAPI to allow for asynchronous development to handle the high load of the system.
 
-#### BtoC Tourism Project
+#### B2C Tourism Project
 
-* Contributed to the development of a tourism BtoC platform with over one million registered users and connections to more than nine BtoB platforms.
+* Contributed to the development of a tourism B2C platform with over one million registered users and connections to more than nine BtoB platforms.
 * Optimized the payment system to handle approximately 200 different payment modes based on various variables such as the type of service, BtoB provider, and payment type (IPG, MPL, WPG).
 * Implemented Async features to optimize the system's performance, reducing the system slowdown during high loads by up to 70%.
 
 Technologies Used: Linux, Python, FastAPI, PostgreSQL, Docker.
 
+
+#### User Analytic System
+
+I was responsible for developing and implementing a real-time User Analytics System, leveraging FastAPI, ClickHouse, RabbitMQ, and WebSocket technologies.
+
+* Effectively managed a high throughput of over 1 million data events per hour by leveraging RabbitMQ and WebSocket technologies, ensuring seamless data delivery.
+
+Technologies Used: FastAPI, ClickHouse, RabbitMQ, WebSocket.
 
 ### Open Source
 
@@ -45,7 +53,7 @@ Technologies Used: Linux, Python, FastAPI, PostgreSQL, Docker.
 
 ### Technical Skills:
 
-* Proficient in Python programming with experience in OOP, decorators, threads, and async programming
+* Proficient in Python programming with experience in OOP, decorators, async, and websocket.
 * Experienced in using FastAPI and Django frameworks for web development
 * Skilled in database management using PostgreSQL and Redis
 * Knowledgeable in test frameworks such as unittest and Pytest for unit testing
