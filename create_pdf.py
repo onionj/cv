@@ -8,7 +8,7 @@ with open("_config.yml") as file:
 
     options = {
         "page-height": "390",
-        "page-width": "2200",
+        "page-width": "220",
         "margin-top": "0in",
         "margin-right": "0.5in",
         "margin-bottom": "0in",
