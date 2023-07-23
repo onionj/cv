@@ -1,6 +1,6 @@
 
 ## Professional Summary:
-Experienced Python Backend Developer with a proven track record of delivering innovative solutions for over 10 professional projects. Skilled in web development using frameworks like FastAPI and Django, as well as database management with PostgreSQL and Redis. Proficient in utilizing Git for version control and working with Linux-based systems.
+Experienced Python Backend Developer with a proven track record of delivering innovative solutions for over 10 professional projects.
 
 ## Work Experience
 
@@ -42,7 +42,7 @@ Technologies Used: FastAPI, ClickHouse, RabbitMQ, WebSocket.
 ### Technical Skills:
 * Proficient in Python programming, utilizing OOP, decorators, async, and websocket.
 * Experienced in web development using FastAPI and Django frameworks.
-* Skilled in database management with PostgreSQL and Redis.
+* Skilled in database management with PostgreSQL, ClickHouse and Redis.
 * Knowledgeable in test frameworks, including unittest and Pytest, for unit testing.
 * Proficient in Linux-based systems administration.
 * Familiar with security concepts and best practices.
