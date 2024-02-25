@@ -15,10 +15,10 @@ linkedin: true
 linkedin_url: https://www.linkedin.com/in/samannzft/
 
 gmail: true
-gmail_url: onionj98@gmail.com
+gmail_url: samannzft@gmail.com
 
-phone: true
-phone_number: "+989399608591"
+phone: false
+phone_number: ""
 
 footer: false
 site_footer_text: ""
